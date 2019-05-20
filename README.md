@@ -9,7 +9,7 @@ This is the implementation of the paper ***Structure-Aware Residual Pyramid Netw
 @inproceedings{Chen2019structure-aware,
              title = {Structure-Aware Residual Pyramid Network for Monocular Depth Estimation},
              author = {Chen, Xiaotian and Chen , Xuejin and Zha, Zheng-Jun},
-			       conference={International Joint Conferences on Artificial Intelligence},
+	     conference={International Joint Conferences on Artificial Intelligence},
              year = {2019}   
 } 
 ```
