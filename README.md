@@ -1,4 +1,4 @@
-# SARPN:Structure-Aware Residual Pyramid Network for Monocular Depth Estimation
+# Structure-Aware Residual Pyramid Network for Monocular Depth Estimation
 This is the implementation of the paper [***Structure-Aware Residual Pyramid Network for Monocular Depth Estimation***](https://arxiv.org/abs/1907.06023), ***IJCAI 2019, Xiaotian Chen, Xuejin Chen, and Zheng-Jun Zha.***
 
 ## Still In Progress
