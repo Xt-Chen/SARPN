@@ -1,6 +1,17 @@
 # Structure-Aware Residual Pyramid Network for Monocular Depth Estimation
 This is the implementation of the paper [***Structure-Aware Residual Pyramid Network for Monocular Depth Estimation***](https://arxiv.org/abs/1907.06023), ***IJCAI 2019, Xiaotian Chen, Xuejin Chen, and Zheng-Jun Zha.***
 
+## Citation
+
+```
+@inproceedings{Chen2019structure-aware,
+             title = {Structure-Aware Residual Pyramid Network for Monocular Depth Estimation},
+             author = {Chen, Xiaotian and Chen , Xuejin and Zha, Zheng-Jun},
+	     conference={International Joint Conferences on Artificial Intelligence},
+             year = {2019}   
+} 
+```
+
 ## Still In Progress
 
 ## Introduction
@@ -12,13 +23,4 @@ Monocular depth estimation is an essential task for scene understanding. The und
 - [PyTorch(1.0.1)](https://pytorch.org/)
 - [NYU Depth v2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 
-## If you find this code useful in your research, please cite:
 
-```
-@inproceedings{Chen2019structure-aware,
-             title = {Structure-Aware Residual Pyramid Network for Monocular Depth Estimation},
-             author = {Chen, Xiaotian and Chen , Xuejin and Zha, Zheng-Jun},
-	     conference={International Joint Conferences on Artificial Intelligence},
-             year = {2019}   
-} 
-```
