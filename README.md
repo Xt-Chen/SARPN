@@ -12,8 +12,8 @@ This is the implementation of the paper [***Structure-Aware Residual Pyramid Net
 } 
 ```
 ## Contents
-1.-[Introduction](## Introduction)
-2.-[Usage](## Usage)
+1.-[Introduction](#introduction)
+2.-[Usage](#usage)
 3.-[Results](## Results)
 4.-[Acknowledgements](## Acknowledgements)
 
