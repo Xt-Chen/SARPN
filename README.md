@@ -49,6 +49,8 @@ Use the following command to evaluate the trained SARPN on NYUDV2 test data.<br>
 
 ### Pretrained Model
 You can download the pretrained model:
-NYUDV2
+[NYUDV2](https://1drv.ms/u/s!AhXIHZfUg-uSaQmwNbyEDywBGMc?e=wjUZwc)
+### Pre-processed Data
+You can download the pre-processed data from  https://drive.google.com/file/d/1WoOZOBpOWfmwe7bknWS5PMUCLBPFKTOw/view?usp=sharing, which is shared by [Junjie Hu](https://github.com/JunjH/Revisiting_Single_Depth_Estimation)
 
 	
