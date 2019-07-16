@@ -9,7 +9,7 @@ Monocular depth estimation is an essential task for scene understanding. The und
 ## Usage
 ### Dependencies
 - [Python3.6](https://www.python.org/downloads/)
-- [PyTorch1.0.1](https://pytorch.org/)
+- [PyTorch(1.0.1)](https://pytorch.org/)
 - [NYU Depth v2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 
 ## If you find this code useful in your research, please cite:
