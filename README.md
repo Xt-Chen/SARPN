@@ -28,4 +28,27 @@ Monocular depth estimation is an essential task for scene understanding. The und
 - [PyTorch(1.0.1)](https://pytorch.org/)
 - [NYU Depth v2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 
+### Train
+As an example, use the following command to train SARPN on NYUDV2.<br>
 
+	CUDA_VISIBLE_DEVICES="0,1,2,3" python train.py --trainlist_path (the path of trainlist(nyu2_train.csv))\
+						       --checkpoint_dir (the directory to save the checkpoints)\
+						       --root_path (the root path of dataset)\
+						       --logdir (the directory to save logs and checkpoints)\
+						       --pretrained_dir (the path of pretrained models)\
+						       --do_summary
+						
+### Evaluation
+Use the following command to evaluate the trained SARPN on NYUDV2 test data.<br>
+
+	CUDA_VISIBLE_DEVICES="0" python evaluate.py --testlist_path (the path of testlist(nyu2_test.csv))\
+						    --root_path (the root path of dataset)\
+						    --loadckpt (the path of the loaded model)\
+						    --pretrained_dir (the path of pretrained models)\
+						    --threshold (threshold of the pixels on edges)
+
+### Pretrained Model
+You can download the pretrained model:
+NYUDV2
+
+	
