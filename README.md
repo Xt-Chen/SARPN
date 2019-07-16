@@ -10,7 +10,7 @@ structures in complex scenes. In this paper, we propose a Structure-Aware Residu
 structure in upper levels to represent layouts, and local structure in lower levels to present shape details. At each level, we propose Residual Refinement Modules (RRM) that predict residual maps to progressively add finer structures on the coarser
 structure predicted at the upper level. In order to fully exploit multi-scale image features, an Adaptive Dense Feature Fusion (ADFF) module, which adaptively fuses effective features from all scales for inferring structures of each scale, is introduced.
 Experiment results on the challenging NYU-Depth v2 dataset demonstrate that our proposed approach achieves state-of-the-art performance in both qualitative and quantitative evaluation.
-![figure](./images/1.png)
+![figure](./images/overview.png)
 
 ## If you find this code useful in your research, please cite:
 
