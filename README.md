@@ -12,10 +12,10 @@ This is the implementation of the paper [***Structure-Aware Residual Pyramid Net
 } 
 ```
 ## Contents
-1.[Introduction](#introduction)
-2.[Usage](#usage)
-3.[Results](#Results)
-4.[Acknowledgements](#Acknowledgements)
+1. [Introduction](#introduction)<br>
+2. [Usage](#usage)<br>
+3. [Results](#Results)<br>
+4. [Acknowledgements](#Acknowledgements)<br>
 
 ## Still In Progress
 
