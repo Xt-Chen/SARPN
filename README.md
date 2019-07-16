@@ -57,5 +57,5 @@ You can download the pre-processed data from this [link](https://drive.google.co
 ![](./images/visualcomparison.png)
 
 ## Acknowledgements
-Thanks to Junjie Hu et al. for opening source of his excellent [work](https://arxiv.org/abs/1803.08673). Our work is inspired by this work and part of codes.
+Thanks to Junjie Hu for opening source of his excellent [work](https://arxiv.org/abs/1803.08673). Our work is inspired by this work and part of codes.
 	
