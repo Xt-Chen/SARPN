@@ -32,12 +32,12 @@ model = nn.DataParallel(model)
 model.cuda()
 
 optimizer = build_optimizer(model = model,
-							learning_rate=args.lr,
-							optimizer_name=args.optimizer_name,
-							weight_decay = args.weight_decay,
-							epsilon=args.epsilon,
-							momentum=args.momentum
-							)
+			    learning_rate=args.lr,
+			    optimizer_name=args.optimizer_name,
+			    weight_decay = args.weight_decay,
+			    epsilon=args.epsilon,
+			    momentum=args.momentum
+			    )
 
 # load parameters
 start_epoch = 0
