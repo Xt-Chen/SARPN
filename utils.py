@@ -133,14 +133,6 @@ def evaluateError(output, target):
 		LG10Matrix = torch.abs(lg10(_output) - lg10(_target))
 		LG10Matrix[nanMask] = 0
 		errors['LG10'] = torch.sum(LG10Matrix) / nValidElement
-		import math
-		if math.isnan(errors['LG10']):
-			print("1:", LG10Matrix)
-			print("2:", torch.sum(LG10Matrix))
-			print("3:", nValidElement)
-			print("4")
-
-
 		yOverZ = torch.div(_output, _target)
 		zOverY = torch.div(_target, _output)
 
