@@ -44,7 +44,7 @@ Use the following command to evaluate the trained SARPN on NYUDV2 test data.<br>
 						    --loadckpt (the path of the loaded model)\
 						    --pretrained_dir (the path of pretrained models)\
 						    --threshold (threshold of the pixels on edges)
-Q
+
 ### Pretrained Model
 You can download the pretrained model:<br>
 **NOTE: You don't need to decompress our pre-trained model. Please use torch.load() to load it.**<br>
