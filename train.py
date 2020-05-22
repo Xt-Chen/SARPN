@@ -45,7 +45,7 @@ start_epoch = 0
 if args.resume:
 	all_saved_ckpts = [ckpt for ckpt in os.listdir(args.checkpoint_dir) if ckpt.endswith(".pth.tar")]
 	all_saved_ckpts = sorted(all_saved_ckpts, key=lambda x:int(x.split('_')[-1].split('.'))[0])
-	loadckpt = os.path.join(args.logdir, all_saved_ckpts[-1])
+	loadckpt = os.path.join(args.checkpoint_dir, all_saved_ckpts[-1])
 	start_epoch = all_saved_ckpts[-1].split('_')[-1].split('.')[0]
 	print("loading the lastest model in checkpoint_dir: {}".format(loadckpt))
 	state_dict = torch.load(loadckpt)
