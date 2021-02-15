@@ -60,7 +60,10 @@ You can download the pretrained model:<br>
 You can download the pre-processed data from this [link](https://drive.google.com/file/d/1WoOZOBpOWfmwe7bknWS5PMUCLBPFKTOw/view?usp=sharing), which is shared by [Junjie Hu.](https://github.com/JunjH/Revisiting_Single_Depth_Estimation)
 
 ## Results
+Indoor scene
 ![](./images/visualcomparison.png)
+Ourdoor scene
+![](./images/comp_kitti.png)
 ## Some examples
 ![](./examples/demo1.gif)
 ![](./examples/demo2.gif)
