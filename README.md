@@ -63,7 +63,7 @@ You can download the pre-processed data from this [link](https://drive.google.co
 Indoor scene
 ![](./images/visualcomparison.png)
 Ourdoor scene
-![](./images/comp_kitti.png)
+![](./images/comp_kitti.PNG)
 ## Some examples
 ![](./examples/demo1.gif)
 ![](./examples/demo2.gif)
