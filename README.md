@@ -9,7 +9,14 @@ This is the implementation of the paper [***Structure-Aware Residual Pyramid Net
              author = {Chen, Xiaotian and Chen , Xuejin and Zha, Zheng-Jun},
 	     conference={International Joint Conferences on Artificial Intelligence},
              year = {2019}   
-} 
+}
+
+@article{Chen2020LapNet,
+  title={Laplacian Pyramid Neural Network for Dense Continuous-Value Regression for Complex Scenes},
+  author={Chen , Xuejin and Chen, Xiaotian and Zhang , Yiteng  and Fu Xueyang and Zha, Zheng-Jun},
+  journal={IEEE TNNLS},
+  year={2020}
+}
 ```
 ## Contents
 1. [Introduction](#introduction)<br>
