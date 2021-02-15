@@ -62,7 +62,7 @@ You can download the pre-processed data from this [link](https://drive.google.co
 ## Results
 **Indoor scene**<br>
 ![](./images/visualcomparison.png)<br>
-**Ourdoor scene**<br>
+**Outdoor scene**<br>
 ![](./images/comp_kitti.PNG)
 ## Some examples
 ![](./examples/demo1.gif)
