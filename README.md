@@ -55,7 +55,7 @@ Use the following command to evaluate the trained SARPN on NYUDV2 test data.<br>
 ### Pretrained Model
 You can download the pretrained model:<br>
 **NOTE: You don't need to decompress our pre-trained model. Please use torch.load() to load it.**<br>
-[NYUDV2](https://1drv.ms/u/s!AhXIHZfUg-uSaQmwNbyEDywBGMc?e=wjUZwc)
+[NYUDV2](https://1drv.ms/u/s!AhXIHZfUg-uSaQmwNbyEDywBGMc?e=wjUZwc) [KITTI and Height estimation](https://1drv.ms/u/s!AhXIHZfUg-uSch9ylCA2sBnKpsc?e=dYVfKb)
 ### Pre-processed Data
 You can download the pre-processed data from this [link](https://drive.google.com/file/d/1WoOZOBpOWfmwe7bknWS5PMUCLBPFKTOw/view?usp=sharing), which is shared by [Junjie Hu.](https://github.com/JunjH/Revisiting_Single_Depth_Estimation)
 
